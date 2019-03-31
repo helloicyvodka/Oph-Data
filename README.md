@@ -9,3 +9,4 @@
 ### Machine learning software
 * [AlphaFold: Predict the secondary structure of protein](https://github.com/heweixd/alphafold)
 * [AlphaFold replication](https://github.com/rickyHong/DeepMind-alphafold-repl)
+* [MiniFold](https://github.com/EricAlcaide/MiniFold)
