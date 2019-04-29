@@ -16,6 +16,7 @@
 
 ### Institutes / Hospitals
 * [Harvard Ophthalmology](https://eye.hms.harvard.edu/research)
+* [Harvard Ophthalmology-Ocular genomics center](https://oculargenomics.meei.harvard.edu/)
 * [Yale Ophthalmology](https://medicine.yale.edu/eyes/)
 * [UCLA Stein Eye Institute](https://www.uclahealth.org/eye/research-laboratories)
 * [John Hopkins Wilmer Eye Institute](https://www.hopkinsmedicine.org/wilmer/research/)
