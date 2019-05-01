@@ -9,6 +9,7 @@
 * [AlphaFold: Predict the secondary structure of protein](https://github.com/heweixd/alphafold)
 * [AlphaFold replication](https://github.com/rickyHong/DeepMind-alphafold-repl)
 * [MiniFold](https://github.com/EricAlcaide/MiniFold)
+* [TukerGaze:tracing eyes](https://github.com/PrincetonVision/TurkerGaze)
 
 ### Data base
 * [NEIBank](https://neibank.nei.nih.gov/index.shtml)
