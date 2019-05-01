@@ -3,6 +3,7 @@
 ### Single cell
 * [Single cell RNA-Seq atlas of the developing murine retina](https://github.com/gofflab/developing_mouse_retina_scRNASeq)
 * [RetSeq](https://retseq.nei.nih.gov/index.jsp)
+* [CellTagging: a combinatorial indexing method for lineage tracing](http://www.celltag.org/)[(paper)](https://www.nature.com/articles/s41586-018-0744-4)
 
 
 ### Machine learning software
