@@ -15,6 +15,7 @@
 
 ### Data base
 * [NEIBank](https://neibank.nei.nih.gov/index.shtml)
+* [iSyTE](https://research.bioinformatics.udel.edu/iSyTE/ppi/about.php)
 
 
 ### Institutes / Hospitals
