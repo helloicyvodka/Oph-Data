@@ -31,3 +31,17 @@
 
 ### Tools
 * [OMIM: Online Mendelian Inheritance in Man](https://www.omim.org/)
+
+
+## Clinical statistics
+### Clinical Database
+* [SEER: Surveillance Epidemiology, and End Results database](https://seer.cancer.gov/)
+* [
+
+### Model
+* Comparative risk model
+* Medelian randomization study
+
+### Consortium
+* [International Inflammatory Bowel Disease Genetics Consortium (IIBDGC)](https://www.ibdgenetics.org/downloads.html)
+* [International Lung Cancer Consortium (ILCCO)](https://ilcco.iarc.fr/index.php)
