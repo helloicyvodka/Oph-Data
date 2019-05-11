@@ -1,11 +1,14 @@
-# Ophthalmology
+# Data Mining
+
+### Data spring sources
+* [Scientific data](https://www.nature.com/sdata/)
+* [Google dataset search](https://toolbox.google.com/datasetsearch)
 
 ### Single cell
 * [Single cell RNA-Seq atlas of the developing murine retina](https://github.com/gofflab/developing_mouse_retina_scRNASeq)
 * [RetSeq](https://retseq.nei.nih.gov/index.jsp)
 * [CellTagging: a combinatorial indexing method for lineage tracing](http://www.celltag.org/)[(paper)](https://www.nature.com/articles/s41586-018-0744-4)
 * [Retinal Bipolar Neuron Drop-seq ](https://portals.broadinstitute.org/single_cell/study/SCP3/retinal-bipolar-neuron-drop-seq)
-
 
 ### Machine learning software
 * [AlphaFold: Predict the secondary structure of protein](https://github.com/heweixd/alphafold)
@@ -33,10 +36,9 @@
 * [OMIM: Online Mendelian Inheritance in Man](https://www.omim.org/)
 
 
-## Clinical statistics
 ### Clinical Database
 * [SEER: Surveillance Epidemiology, and End Results database](https://seer.cancer.gov/)
-* [
+* [fda-adverse-event-reporting-system](https://www.fda.gov/drugs/surveillance/fda-adverse-event-reporting-system-faers)
 
 ### Model
 * Comparative risk model
@@ -45,3 +47,5 @@
 ### Consortium
 * [International Inflammatory Bowel Disease Genetics Consortium (IIBDGC)](https://www.ibdgenetics.org/downloads.html)
 * [International Lung Cancer Consortium (ILCCO)](https://ilcco.iarc.fr/index.php)
+* [The Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium ](http://www.chargeconsortium.com/)
+* [UK Biobank](http://www.ukbiobank.ac.uk/) ([paper](https://www.ncbi.nlm.nih.gov/pubmed/30796124))
