@@ -51,4 +51,4 @@
 * [International Lung Cancer Consortium (ILCCO)](https://ilcco.iarc.fr/index.php)
 * [The Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium ](http://www.chargeconsortium.com/)
 * [UK Biobank](http://www.ukbiobank.ac.uk/) ([paper](https://www.ncbi.nlm.nih.gov/pubmed/30796124))
-* [Healthy Vision](https://nei.nih.gov/healthyvision)
+* [Healthy Vision 2020](https://nei.nih.gov/healthyvision)
