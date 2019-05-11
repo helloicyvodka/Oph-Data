@@ -18,6 +18,7 @@
 
 ### Database
 * [NEIBank](https://neibank.nei.nih.gov/index.shtml)
+* [eyeGene](https://eyegene.nih.gov/)
 * [iSyTE](https://research.bioinformatics.udel.edu/iSyTE/ppi/about.php)
 * [brfss](https://www.cdc.gov/brfss/data_documentation/index.htm)[ brfss-eye](https://catalog.data.gov/dataset/behavioral-risk-factors-vision-amp-eye-health-c8237)
 
