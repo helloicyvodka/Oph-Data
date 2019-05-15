@@ -37,16 +37,13 @@
 ### Tools
 * [OMIM: Online Mendelian Inheritance in Man](https://www.omim.org/)
 
-
-### Clinical Database
-* [SEER: Surveillance Epidemiology, and End Results database](https://seer.cancer.gov/)
-* [fda-adverse-event-reporting-system](https://www.fda.gov/drugs/surveillance/fda-adverse-event-reporting-system-faers)
-
 ### Model
 * Comparative risk model
 * Medelian randomization study
 
-### Consortium
+### Clinical Database / Consortium
+* [SEER: Surveillance Epidemiology, and End Results database](https://seer.cancer.gov/)
+* [fda-adverse-event-reporting-system](https://www.fda.gov/drugs/surveillance/fda-adverse-event-reporting-system-faers)
 * [International Inflammatory Bowel Disease Genetics Consortium (IIBDGC)](https://www.ibdgenetics.org/downloads.html)
 * [International Lung Cancer Consortium (ILCCO)](https://ilcco.iarc.fr/index.php)
 * [The Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium ](http://www.chargeconsortium.com/)
