@@ -50,7 +50,7 @@
 * [International Inflammatory Bowel Disease Genetics Consortium (IIBDGC)](https://www.ibdgenetics.org/downloads.html)
 * [International Lung Cancer Consortium (ILCCO)](https://ilcco.iarc.fr/index.php)
 * [The Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium ](http://www.chargeconsortium.com/)
-* [UK Biobank](http://www.ukbiobank.ac.uk/) ([paper](https://www.ncbi.nlm.nih.gov/pubmed/30796124))[Nature-papers](https://www.nature.com/collections/bpthhnywqk/content/health-genetics) [How to apply](https://mp.weixin.qq.com/s/PXMHRtKvRfwFMNODMSbO2w)
+* [UK Biobank](http://www.ukbiobank.ac.uk/), ([paper](https://www.ncbi.nlm.nih.gov/pubmed/30796124)), [Nature-papers](https://www.nature.com/collections/bpthhnywqk/content/health-genetics), [How to apply](https://mp.weixin.qq.com/s/PXMHRtKvRfwFMNODMSbO2w)
 * [Healthy Vision 2020](https://nei.nih.gov/healthyvision)
 * [cBioPortal for Cancer Genomics](http://www.cbioportal.org)
 * [ICGC (the International Cancer Genome Consortium)](https://icgc.org/
