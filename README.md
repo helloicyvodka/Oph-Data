@@ -16,6 +16,7 @@
 * [MiniFold](https://github.com/EricAlcaide/MiniFold)
 * [ZetaFold](https://github.com/imranq/zetafold)
 * [TukerGaze:tracing eyes](https://github.com/PrincetonVision/TurkerGaze)
+* [ribokit](https://ribokit.github.io)
 
 ### Database
 * [NEIBank](https://neibank.nei.nih.gov/index.shtml)
