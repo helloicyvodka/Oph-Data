@@ -11,13 +11,7 @@
 * [CellTagging: a combinatorial indexing method for lineage tracing](http://www.celltag.org/)[(paper)](https://www.nature.com/articles/s41586-018-0744-4)
 * [Retinal Bipolar Neuron Drop-seq ](https://portals.broadinstitute.org/single_cell/study/SCP3/retinal-bipolar-neuron-drop-seq)
 
-### Machine learning software
-* [AlphaFold: Predict the secondary structure of protein](https://github.com/heweixd/alphafold)
-* [AlphaFold replication](https://github.com/rickyHong/DeepMind-alphafold-repl)
-* [MiniFold](https://github.com/EricAlcaide/MiniFold)
-* [ZetaFold](https://github.com/imranq/zetafold)
-* [TukerGaze:tracing eyes](https://github.com/PrincetonVision/TurkerGaze)
-* [ribokit](https://ribokit.github.io)
+
 
 ### Database
 * [NEIBank](https://neibank.nei.nih.gov/index.shtml)
@@ -43,6 +37,13 @@
 ### Tools
 * [OMIM: Online Mendelian Inheritance in Man](https://www.omim.org/)
 * [ONLINE ANALYSIS TOOLS (INTERNET RESOURCES for MOLECULAR BIOLOGISTS)](https://molbiol-tools.ca/)
+#### Machine learning software
+* [AlphaFold: Predict the secondary structure of protein](https://github.com/heweixd/alphafold)
+* [AlphaFold replication](https://github.com/rickyHong/DeepMind-alphafold-repl)
+* [MiniFold](https://github.com/EricAlcaide/MiniFold)
+* [ZetaFold](https://github.com/imranq/zetafold)
+* [TukerGaze:tracing eyes](https://github.com/PrincetonVision/TurkerGaze)
+* [ribokit](https://ribokit.github.io)
 
 ### Model
 * Comparative risk model
