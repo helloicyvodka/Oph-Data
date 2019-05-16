@@ -42,6 +42,7 @@
 
 ### Tools
 * [OMIM: Online Mendelian Inheritance in Man](https://www.omim.org/)
+* [ONLINE ANALYSIS TOOLS (INTERNET RESOURCES for MOLECULAR BIOLOGISTS)](https://molbiol-tools.ca/)
 
 ### Model
 * Comparative risk model
