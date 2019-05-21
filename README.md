@@ -30,6 +30,7 @@
 
 ### Labs 
 * [Das Lab](https://daslab.stanford.edu)
+* [King-Wai Yau](http://neuroscience.jhu.edu/research/faculty/100)
 
 ### Book
 * [WEBVISION : The Organization of the Retina and Visual System](https://webvision.med.utah.edu/)
