@@ -60,4 +60,4 @@
 * [ICGC (the International Cancer Genome Consortium)](https://icgc.org/)
 * [CGAP (Cancer Genome Anatomy Project)](https://cgap.nci.nih.gov/)   
 * [TCGA (The Cancer Genome Atlas)](https://cancergenome.nih.gov/)
-* [National Health and Nutrition Examination Survey](https://www.cdc.gov/nchs/nhanes/index.html)
+* [National Health and Nutrition Examination Survey](https://www.cdc.gov/nchs/nhanes/index.htm)
