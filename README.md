@@ -30,6 +30,7 @@
 * [Das Lab](https://daslab.stanford.edu)
 * [King-Wai Yau](http://neuroscience.jhu.edu/research/faculty/100)
 * [Kang Zhang](http://zhanglab.ucsd.edu/about/)
+* [DSW Ting](https://www.nccs.com.sg/profile/daniel-ting)
 
 ### Book
 * [WEBVISION : The Organization of the Retina and Visual System](https://webvision.med.utah.edu/)
