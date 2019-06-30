@@ -26,12 +26,14 @@
 * [UCLA Stein Eye Institute](https://www.uclahealth.org/eye/research-laboratories)
 * [John Hopkins Wilmer Eye Institute](https://www.hopkinsmedicine.org/wilmer/research/)
 * [Bascom Palmer Eye Institute ](https://umiamihealth.org/bascom-palmer-eye-institute/research)
+* [University of Michigan,Department of Computational Medicine and Bioinformatics](https://medicine.umich.edu/dept/computational-medicine-bioinformatics)
 
 ### Labs 
 * [Das Lab](https://daslab.stanford.edu)
 * [King-Wai Yau](http://neuroscience.jhu.edu/research/faculty/100)
 * [Kang Zhang](http://zhanglab.ucsd.edu/about/)
 * [DSW Ting](https://www.nccs.com.sg/profile/daniel-ting)
+* [Jianzhi George Zhang](http://umich.edu/~zhanglab/)
 
 ### Young Docotors
 * [Kai CHEN](https://www.researchgate.net/profile/Kai_Chen36)
