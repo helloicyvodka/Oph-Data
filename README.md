@@ -6,6 +6,12 @@
 * [去哪找数据？ - miao君的回答 - 知乎](https://www.zhihu.com/question/20179699/answer/681756635)
 * [Computational resources associating diseases with genotypes, phenotypes and exposures ](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bby071/5067517)
 
+### Machine learning datasets
+* [Tencent ML-Images](https://neurohive.io/en/datasets/tencent-dataset/)
+* [25](https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/)
+* [DL-datasets](http://deeplearning.net/datasets/)
+* [quora](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+
 ### Single cell
 * [Single cell RNA-Seq atlas of the developing murine retina](https://github.com/gofflab/developing_mouse_retina_scRNASeq)
 * [RetSeq](https://retseq.nei.nih.gov/index.jsp)
