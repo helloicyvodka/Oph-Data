@@ -41,6 +41,7 @@
 * [DSW Ting](https://www.nccs.com.sg/profile/daniel-ting)
 * [Jianzhi George Zhang](http://umich.edu/~zhanglab/)
 * [Gioele La Manno](http://gioelelamanno.com/)
+* [DNA algorithms and natural algorithms](http://www.dna.caltech.edu/~winfree/)
 
 ### Young Docotors
 * [Kai CHEN](https://www.researchgate.net/profile/Kai_Chen36)
