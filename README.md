@@ -42,7 +42,7 @@
 * [Jianzhi George Zhang](http://umich.edu/~zhanglab/)
 * [Gioele La Manno](http://gioelelamanno.com/)
 * [DNA and Natural Algorithms Group](http://www.dna.caltech.edu/DNAhome.html)
-* [Su Lab:比较基因组学]（http://www.kiz.cas.cn/Su_lab/Su_bal1/）
+* [Su Lab:比较基因组学](http://www.kiz.cas.cn/Su_lab/Su_bal1/)
 
 ### Young Docotors
 * [Kai CHEN](https://www.researchgate.net/profile/Kai_Chen36)
