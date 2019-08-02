@@ -33,6 +33,7 @@
 * [John Hopkins Wilmer Eye Institute](https://www.hopkinsmedicine.org/wilmer/research/)
 * [Bascom Palmer Eye Institute ](https://umiamihealth.org/bascom-palmer-eye-institute/research)
 * [University of Michigan,Department of Computational Medicine and Bioinformatics](https://medicine.umich.edu/dept/computational-medicine-bioinformatics)
+* [ucsf.bioinfo](https://bioinformatics.ucsf.edu/about)
 
 ### Labs 
 * [Das Lab](https://daslab.stanford.edu)
